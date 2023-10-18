@@ -1,0 +1,15 @@
+/Users/tkyoosweel/Projects/prak4/prak4/bin/Debug/net7.0/prak4
+/Users/tkyoosweel/Projects/prak4/prak4/bin/Debug/net7.0/prak4.deps.json
+/Users/tkyoosweel/Projects/prak4/prak4/bin/Debug/net7.0/prak4.runtimeconfig.json
+/Users/tkyoosweel/Projects/prak4/prak4/bin/Debug/net7.0/prak4.dll
+/Users/tkyoosweel/Projects/prak4/prak4/bin/Debug/net7.0/prak4.pdb
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.csproj.AssemblyReference.cache
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.AssemblyInfoInputs.cache
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.AssemblyInfo.cs
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.csproj.CoreCompileInputs.cache
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.dll
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/refint/prak4.dll
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.pdb
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/prak4.genruntimeconfig.cache
+/Users/tkyoosweel/Projects/prak4/prak4/obj/Debug/net7.0/ref/prak4.dll
